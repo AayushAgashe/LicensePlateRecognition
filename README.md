@@ -21,7 +21,7 @@ The dataset is organized into three distinct sets:
 - **`train1/`**: 900 full vehicle images with bounding box annotations in `train1.csv` for license plate locations (`ymin`, `xmin`, `ymax`, `xmax`).
 - **`train2/`**: 900 cropped license plate images with corresponding text labels in `train2.csv`.
 - **`test/`**: 201 full vehicle images. Evaluation is based on predictions compared to `test.csv`, which contains per-character labels.
-
+- Drive Link to Dataset : [Click Here](https://drive.google.com/file/d/1YgnADBcBG2TCT5LBET6ipYEe21jPVUv8/view?usp=sharing)
 ---
 
 ###  Model Architecture
